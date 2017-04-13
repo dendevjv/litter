@@ -1,4 +1,4 @@
-package dendevjv.java8.streams;
+package com.jdojo.streams;
 
 import java.time.LocalDate;
 import java.time.Month;

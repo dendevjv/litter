@@ -1,4 +1,4 @@
-package dendevjv.java8.streams;
+package com.jdojo.streams;
 
 public class PrimeUtil {
     public static final String WORD = "ABCDEFGHIJKLMONPQRSTUVWXYZ";

@@ -1,4 +1,4 @@
-package dendevjv.java8.streams;
+package com.jdojo.streams;
 
 import java.util.function.Supplier;
 

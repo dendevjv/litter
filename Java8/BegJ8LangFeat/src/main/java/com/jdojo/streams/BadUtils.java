@@ -1,4 +1,4 @@
-package dendevjv.java8.streams;
+package com.jdojo.streams;
 
 /**
  * Created for research on 06.04.2017.
